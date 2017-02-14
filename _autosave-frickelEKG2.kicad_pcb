@@ -3,7 +3,7 @@
   (general
     (links 189)
     (no_connects 0)
-    (area 119.936499 63.936499 156.063501 100.063501)
+    (area 114.25 61.35 160.150001 103.500001)
     (thickness 1.6)
     (drawings 8)
     (tracks 785)
@@ -17,7 +17,7 @@
     (0 F.Cu jumper)
     (1 In1.Cu signal hide)
     (2 In2.Cu signal hide)
-    (31 B.Cu signal)
+    (31 B.Cu signal hide)
     (34 B.Paste user)
     (35 F.Paste user)
     (36 B.SilkS user hide)
@@ -64,7 +64,7 @@
     (pad_to_mask_clearance 0.05)
     (pad_to_paste_clearance -0.04)
     (aux_axis_origin 0 0)
-    (visible_elements FFFCEF1F)
+    (visible_elements FFFC6B1F)
     (pcbplotparams
       (layerselection 0x3ffff_80000001)
       (usegerberextensions true)
